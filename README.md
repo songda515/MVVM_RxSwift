@@ -15,8 +15,10 @@
 ### W2. 곰튀김님 강의 복습 & RxSwift 톺아보기
 - 곰튀김님 예제 Step2 직접 구현해보기 (TableView 로 변경하기)
 - Hello RxSwift, Observable, Subject 학습하기
+- [2주차 스터디 상세 내용](week2.md)
 
 ### W3. RxSwift 톺아보기 2
+- Step2 직접 구현해보기 재공유!
 - Filtering Opertaors, Transforming, Combining Operators
 
 ### W4. RxSwift 톺아보기 3
