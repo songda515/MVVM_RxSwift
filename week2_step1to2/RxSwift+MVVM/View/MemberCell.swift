@@ -18,7 +18,13 @@ class MemberCell: UITableViewCell {
     @IBOutlet weak var ageLabel: UILabel!
     
     var disposeBag = DisposeBag()
-    // cell reuse 시에 초기화되도록 작업하기
+
+    override func prepareForReuse() {
+        super.prepareForReuse()
+        // cell reuse 시에 초기화되도록 작업하기
+        avatarImage.image = nil
+        disposeBag = DisposeBag()
+    }
     
     func updateUI(member: Member) {
         setImage(url: member.avatar)
