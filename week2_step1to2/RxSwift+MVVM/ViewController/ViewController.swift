@@ -35,10 +35,6 @@ class ViewController: UIViewController {
     }
     
     private func setBinding() {
-        // test
-        viewModel.members
-            .subscribe(onNext: { print(" member changed, \($0.first?.name)")})
-            .disposed(by: disposeBag)
         
         // tableView datasource -- 데이터 개수, 셀에 들어갈 내용
         viewModel.members
@@ -63,7 +59,6 @@ class ViewController: UIViewController {
         tableView.rx.modelSelected(Member.self)
             .observe(on: MainScheduler.instance)
             .subscribe(onNext: { [weak self] member in
-                print(member)
                 self?.presentDetail(of: member)
             })
             .disposed(by: disposeBag)
@@ -90,6 +85,7 @@ class ViewController: UIViewController {
 
     @IBAction func onLoad() {
         setVisibleWithAnimation(activityIndicator, true)
+        tableView.scrollToRow(at: IndexPath(row: 0, section: 0), at: .top, animated: true)
         viewModel.reloadData()
     }
 }
