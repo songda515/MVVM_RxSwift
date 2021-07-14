@@ -3,8 +3,8 @@
 - 곰튀김님 강의 : [RxSwift+MVVM 4시간에 끝내기 [시즌2]](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 ### 2주차 학습 정리
-- 다나 : [곰튀김님 강의 Ex1 > Ex2로 변경해보기 - 포스팅 예정](https://www.notion.so/jellysong/W2-RxSwift-8ff138f8c27344fa82a2969b2803befd)
-- 하원 : [[RxSwift] Closure ARC / Memory Leak 실험](https://levenshtein.tistory.com/470) [subscribe, observe / thread 관리](https://levenshtein.tistory.com/471)
+- 다나 : [[TableView 예제코드]](https://github.com/songda515/MVVM_RxSwift/tree/main/week2_step1to2) [[상세 포스팅]](https://jellysong.tistory.com/111) [[View Controller, Cell 상세 포스팅]](https://jellysong.tistory.com/112)
+- 하원 : [[Closure ARC / Memory Leak 실험]](https://levenshtein.tistory.com/470) [[subscribe, observe / thread 관리]](https://levenshtein.tistory.com/471)
 - 건우 : [링크](https://rldd.tistory.com/category/iOS/RxSwift)
 
 ### 논의
