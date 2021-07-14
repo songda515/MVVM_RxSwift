@@ -3,7 +3,7 @@
 - 강의 : [RxSwift+MVVM 4시간에 끝내기 [시즌2]](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 ### 1주차 학습 정리
-- 다나 : [강의 요약](https://www.notion.so/jellysong/MVVM-RxSwift-da9fa84cd45744d4bea4fcb79269f3a1)
+- 다나 : [강의 요약](https://www.notion.so/jellysong/MVVM-RxSwift-da9fa84cd45744d4bea4fcb79269f3a1) / [Observables](https://jellysong.tistory.com/109) / [Subjects](https://jellysong.tistory.com/110)
 - 하원 : [링크1](https://levenshtein.tistory.com/452) [링크2](https://levenshtein.tistory.com/454) [링크3](https://levenshtein.tistory.com/456)
 - 경훈 : [링크](https://www.notion.so/Rxswift-MVVM-20917b6cfb8c4cf592eeeabe62e501a4)
 - 건우 : [링크](https://rldd.tistory.com/category/iOS/RxSwift)
