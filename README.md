@@ -20,6 +20,7 @@
 ### W3. RxSwift 톺아보기 2
 - Step2 직접 구현해보기 재공유!
 - Filtering Opertaors, Transforming, Combining Operators
+- [3주차 스터디 상세 내용](week3.md)
 
 ### W4. RxSwift 톺아보기 3
 - Time Based Operators
