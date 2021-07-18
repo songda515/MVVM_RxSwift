@@ -22,11 +22,16 @@
 - Filtering Opertaors, Transforming, Combining Operators
 
 ### W4. RxSwift 톺아보기 3
-- Time Based Operators, Beginning RxCocoa
-- Intermediate RxCocoa, Error Handling in Practice
-- Intro To Schedulers, Testing with RxTest
+- Time Based Operators
+- Intro To Schedulers (RxSwift) 
+- Scheduler, QoS (iOS)
 
-### W5-6. MVVM+RxSwift를 적용한 토이프로젝트 개발
+### W5. RxCocoa
+- Beginning RxCocoa, Intermediate RxCocoa
+- Error Handling in Practice
+- Testing with RxTest
+
+### W6. MVVM+RxSwift를 적용한 토이프로젝트 개발
 
 ### W7... 사이드 프로젝트 기획 ~ 개발
 
