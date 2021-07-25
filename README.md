@@ -26,7 +26,7 @@
 - Time Based Operators
 - Intro To Schedulers (RxSwift) 
 - Scheduler, QoS (iOS)
-- [4주차 스턷 상세 내용](week4.md)
+- [4주차 스터디 상세 내용](week4.md)
 
 ### W5. RxCocoa 날씨 앱
 - [Beginning RxCocoa](https://github.com/fimuxd/RxSwift/blob/master/Lectures/12_Beginning%20RxCocoa/Ch12.%20Beginning%20RxCocoa.md)
