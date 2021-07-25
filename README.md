@@ -26,9 +26,14 @@
 - Time Based Operators
 - Intro To Schedulers (RxSwift) 
 - Scheduler, QoS (iOS)
+- [4주차 스턷 상세 내용](week4.md)
 
-### W5. RxCocoa
-- Beginning RxCocoa, Intermediate RxCocoa
+### W5. RxCocoa 날씨 앱
+- [Beginning RxCocoa](https://github.com/fimuxd/RxSwift/blob/master/Lectures/12_Beginning%20RxCocoa/Ch12.%20Beginning%20RxCocoa.md)
+- [Intermediate RxCocoa](https://github.com/fimuxd/RxSwift/blob/master/Lectures/13_Intermediate%20RxCocoa/Ch13.Intermediate%20RxCocoa.md)
+
+
+### ...
 - Error Handling in Practice
 - Testing with RxTest
 
@@ -37,4 +42,4 @@
 ### W7... 사이드 프로젝트 기획 ~ 개발
 
 ---
-- RxSwift 톺아보기의 진도는 [SOPT 동아리 커리큘럼](https://github.com/5anniversary/RxSwiftStudy) 참고, [Reactive 공식문서](http://reactivex.io) 기반으로 학습
+- RxSwift 톺아보기의 진도는 [SOPT 동아리 커리큘럼](https://github.com/5anniversary/RxSwiftStudy) & [RxSwift 스터디](https://github.com/fimuxd/RxSwift) 참고, [Reactive 공식문서](http://reactivex.io) 기반으로 학습
