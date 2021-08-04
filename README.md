@@ -42,4 +42,5 @@
 ### W7... 사이드 프로젝트 기획 ~ 개발
 
 ---
-- RxSwift 톺아보기의 진도는 [SOPT 동아리 커리큘럼](https://github.com/5anniversary/RxSwiftStudy) & [RxSwift 스터디](https://github.com/fimuxd/RxSwift) 참고, [Reactive 공식문서](http://reactivex.io) 기반으로 학습
+- RxSwift 톺아보기의 진도는 [RxSwift 원서](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift) / [코드](https://github.com/raywenderlich/rxs-materials/tree/editions/4.0) / [Reactive 공식문서](http://reactivex.io) 기반으로 학습
+- 추가로 [SOPT 동아리 커리큘럼](https://github.com/5anniversary/RxSwiftStudy) & [RxSwift 스터디](https://github.com/fimuxd/RxSwift) 참고
