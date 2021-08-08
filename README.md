@@ -30,6 +30,8 @@
 ### W5. RxCocoa 날씨 앱
 - [Beginning RxCocoa](https://github.com/fimuxd/RxSwift/blob/master/Lectures/12_Beginning%20RxCocoa/Ch12.%20Beginning%20RxCocoa.md)
 - [Intermediate RxCocoa](https://github.com/fimuxd/RxSwift/blob/master/Lectures/13_Intermediate%20RxCocoa/Ch13.Intermediate%20RxCocoa.md)
+- [5주차 스터디 상세 내용](week5.md)
+
 
 ### W6. 두굿 해커톤
 
