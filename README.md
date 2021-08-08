@@ -35,9 +35,10 @@
 
 ### W6. 두굿 해커톤
 
+---
 ### TBD..
-- Error Handling in Practice
-- Testing with RxTest
+  - Error Handling in Practice
+  - Testing with RxTest
 
 ---
 - RxSwift 톺아보기의 진도는 [RxSwift 원서](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift) / [코드](https://github.com/raywenderlich/rxs-materials/tree/editions/4.0) / [Reactive 공식문서](http://reactivex.io) 기반으로 학습
