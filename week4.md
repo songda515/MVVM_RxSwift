@@ -4,7 +4,7 @@
 - Intro To Scheduler
 - Cocoa GCD, Dispatch Queue
 
-### 3주차 학습 정리
+### 4주차 학습 정리
 - 다나 : [W4. Time-Based Operators / Scheduler](https://www.notion.so/jellysong/W4-Time-Based-Operators-Scheduler-90c76a308cb3482b9e7727e925936c61)
 - 건우 : [링크](https://rldd.tistory.com/category/iOS/RxSwift)
 
