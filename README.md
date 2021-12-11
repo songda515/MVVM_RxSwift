@@ -35,7 +35,8 @@
 
 ### W6. 두굿 해커톤
 - RxSwift, RxCocoa 실전‼️ 
-- [HAUS, 가족 챌린지 공유 앱 w 다인, 건우](https://github.com/DoGood-Hackathon-2/HappyHouse) [해커톤 후기](https://jellysong.tistory.com/121)
+- [HAUS, 가족 챌린지 공유 앱 w 다인, 건우](https://github.com/DoGood-Hackathon-2/HappyHouse) 
+- [👉 해커톤 후기](https://jellysong.tistory.com/121)
 
 ---
 ### TBD..
